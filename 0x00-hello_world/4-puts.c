@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * maim - entry point
+ * maim -> this is a function to print hello world
  *
  * Return: 0 after printing the funtion
  */
