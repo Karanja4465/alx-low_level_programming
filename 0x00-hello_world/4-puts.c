@@ -1,9 +1,10 @@
 #include<stdio.h>
-
-(return: 0 after printing the function)
-
+/**
+ * maim - entry point
+ *
+ * Return: 0 after printing the funtion
+ */
 int main(void)
-{
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+{puts("\"programming is like building a multilingual puzzle");
+	return (0);
 }
